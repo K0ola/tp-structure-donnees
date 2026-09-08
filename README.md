@@ -48,13 +48,13 @@ k0la@MacBook-Pro-de-Arthur TP-structure-de-données % ./mon_programme
   Array Insert début     : 0.000006 s
   Array Insert fin       : 0.000000 s
   Array Parcours somme   : 0.000005 s
-------------------------------------------
+
   List  Accès N/2        : 0.000004 s
   List  Rech. absente    : 0.000007 s
   List  Insert début     : 0.000000 s
   List  Insert fin       : 0.000008 s
   List  Parcours somme   : 0.000008 s
-------------------------------------------
+
   [Hash GOOD] Rech. absente : 0.000000 s
   [Hash BAD ] Rech. absente : 0.000007 s
 
@@ -66,13 +66,13 @@ k0la@MacBook-Pro-de-Arthur TP-structure-de-données % ./mon_programme
   Array Insert début     : 0.000037 s
   Array Insert fin       : 0.000000 s
   Array Parcours somme   : 0.000028 s
-------------------------------------------
+
   List  Accès N/2        : 0.000019 s
   List  Rech. absente    : 0.000033 s
   List  Insert début     : 0.000000 s
   List  Insert fin       : 0.000037 s
   List  Parcours somme   : 0.000029 s
-------------------------------------------
+
   [Hash GOOD] Rech. absente : 0.000000 s
   [Hash BAD ] Rech. absente : 0.000026 s
 
@@ -84,13 +84,13 @@ k0la@MacBook-Pro-de-Arthur TP-structure-de-données % ./mon_programme
   Array Insert début     : 0.000125 s
   Array Insert fin       : 0.000000 s
   Array Parcours somme   : 0.000108 s
-------------------------------------------
+
   List  Accès N/2        : 0.000081 s
   List  Rech. absente    : 0.000116 s
   List  Insert début     : 0.000000 s
   List  Insert fin       : 0.000113 s
   List  Parcours somme   : 0.000120 s
-------------------------------------------
+
   [Hash GOOD] Rech. absente : 0.000000 s
   [Hash BAD ] Rech. absente : 0.000088 s
 
@@ -102,13 +102,13 @@ k0la@MacBook-Pro-de-Arthur TP-structure-de-données % ./mon_programme
   Array Insert début     : 0.000863 s
   Array Insert fin       : 0.000000 s
   Array Parcours somme   : 0.000752 s
-------------------------------------------
+
   List  Accès N/2        : 0.000630 s
   List  Rech. absente    : 0.001080 s
   List  Insert début     : 0.000000 s
   List  Insert fin       : 0.001232 s
   List  Parcours somme   : 0.001124 s
-------------------------------------------
+
   [Hash GOOD] Rech. absente : 0.000000 s
   [Hash BAD ] Rech. absente : 0.001075 s
 
